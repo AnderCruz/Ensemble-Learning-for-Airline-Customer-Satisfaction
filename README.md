@@ -1,4 +1,4 @@
-# ✈️ Ensemble Learning for Airline Customer Satisfaction
+# Ensemble Learning for Airline Customer Satisfaction
 
 ## 📌 Project Overview
 
@@ -7,7 +7,7 @@ The objective is to combine multiple classifiers to **predict customer satisfact
 
 Since the dataset is initially unknown, the project includes **data exploration**, **model selection**, and the evaluation of ensemble methods to achieve the most reliable results.
 
----
+
 
 ## 🎯 Business Context
 
@@ -30,7 +30,7 @@ By identifying dissatisfied passengers in advance, the airline can:
 * Reduce customer churn,
 * Enhance overall loyalty.
 
----
+
 
 ## 🧠 Project Objectives
 
@@ -42,7 +42,7 @@ By identifying dissatisfied passengers in advance, the airline can:
 * Integrate models with **Stacking** to achieve cutting-edge results in AI classification.
 * Compare model performances and select the most effective ensemble approach.
 
----
+
 
 ## ⚙️ Tech Stack
 
@@ -53,7 +53,7 @@ By identifying dissatisfied passengers in advance, the airline can:
 * **XGBoost / LightGBM** → Gradient boosting techniques
 * **Jupyter Notebook** → Experimentation and model building
 
----
+
 
 ## 📊 Expected Outcomes
 
@@ -63,7 +63,7 @@ By identifying dissatisfied passengers in advance, the airline can:
 * Practical insights for airlines to **boost satisfaction and customer loyalty**.
 * A replicable ML pipeline for future use cases in the travel and aviation sector.
 
----
+
 
 ## 🏷️ Consulting Note
 
